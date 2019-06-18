@@ -5,7 +5,7 @@ A full-stack data project utilizing audio features data from the official Spotif
 Main motivation for this project was to get practical experience in all the steps of a data project including (automated) data retrieval, data exploration, as well as data modeling using Python, SQL, and Bash.
 
 # 📓 Notebooks
-Data retrieval: [github](https://github.com/rtedwards/spotify-data-visualizations/blob/master/spotify-data-visualizations/spotify-data-retrieval.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/rtedwards/spotify-data-visualizations/blob/master/spotify-data-visualizations/spotify-data-retrieval.ipynb)  
+Data Retrieval: [github](https://github.com/rtedwards/spotify-data-visualizations/blob/master/spotify-data-visualizations/spotify-data-retrieval.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/rtedwards/spotify-data-visualizations/blob/master/spotify-data-visualizations/spotify-data-retrieval.ipynb)  
 Data Exploration: [github](https://github.com/rtedwards/spotify-data-visualizations/blob/master/spotify-data-visualizations/spotify-data-exploration.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/rtedwards/spotify-data-visualizations/blob/master/spotify-data-visualizations/spotify-data-exploration.ipynb)  
 Data Clustering: [github](https://github.com/rtedwards/spotify-data-visualizations/blob/master/spotify-data-visualizations/spotify-data-clustering.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/rtedwards/spotify-data-visualizations/blob/master/spotify-data-visualizations/spotify-data-clustering.ipynb)
 
