@@ -31,9 +31,9 @@ None so far 😕
 
 # Tasks
 
-[x] Create dataset from Spotify library
-[x] Exploratory data analysis
-[x] Build an intuition for audio features by listening to songs through embedded Spotify player
-[x] Use K-Means clustering to find clusters
-[ ] Create playlists based on found clusters and save them to my profile
-[ ] Use another clustering method that works with mixed data type -- continuous and categorical data
+- [x] Create dataset from Spotify library  
+- [x] Exploratory data analysis  
+- [x] Build an intuition for audio features by listening to songs through embedded Spotify player  
+- [x] Use K-Means clustering to find clusters  
+- [ ] Create playlists based on found clusters and save them to my profile  
+- [ ] Use another clustering method that works with mixed data type -- continuous and categorical data  
