@@ -5,15 +5,12 @@ A full-stack data project utilizing audio features data from the official Spotif
 Main motivation for this project was to get practical experience in all the steps of a data project including (automated) data retrieval, data exploration, as well as data modeling using Python, SQL, and Bash.
 
 # 📓 Notebooks
-Data Retrieval: [github](https://github.com/rtedwards/spotify-data-visualizations/blob/master/spotify-data-visualizations/spotify-data-retrieval.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/rtedwards/spotify-data-visualizations/blob/master/spotify-data-visualizations/spotify-data-retrieval.ipynb)  
-Data Exploration: [github](https://github.com/rtedwards/spotify-data-visualizations/blob/master/spotify-data-visualizations/spotify-data-exploration.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/rtedwards/spotify-data-visualizations/blob/master/spotify-data-visualizations/spotify-data-exploration.ipynb)  
-Data Clustering: [github](https://github.com/rtedwards/spotify-data-visualizations/blob/master/spotify-data-visualizations/spotify-data-clustering.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/rtedwards/spotify-data-visualizations/blob/master/spotify-data-visualizations/spotify-data-clustering.ipynb)
+Data Retrieval: [github](https://github.com/rtedwards/spotify-data-visualizations/blob/master/notebooks/spotify-data-retrieval.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/rtedwards/spotify-data-visualizations/blob/master/notebooks/spotify-data-retrieval.ipynb)  
+Data Exploration: [github](https://github.com/rtedwards/spotify-data-visualizations/blob/master/notebooks/spotify-data-exploration.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/rtedwards/spotify-data-visualizations/blob/master/notebooks/spotify-data-exploration.ipynb)  
+Data Clustering: [github](https://github.com/rtedwards/spotify-data-visualizations/blob/master/notebooks/spotify-data-clustering.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/rtedwards/spotify-data-visualizations/blob/master/notebooks/spotify-data-clustering.ipynb)
 
 # 📁 Datasets
 My Spotify "liked" songs
-
-# 📝 Blog Posts
-None so far 😕
 
 # 🛠️ Tools
 ## 🖥️ APIs
@@ -35,5 +32,6 @@ None so far 😕
 - [x] Exploratory data analysis  
 - [x] Build an intuition for audio features by listening to songs through embedded Spotify player  
 - [x] Use K-Means clustering to find clusters  
-- [ ] Create playlists based on found clusters and save them to my profile  
+- [x] Create playlists based on found clusters and save them to my profile  
+- [ ] Find clusters within cluster to find subgenres
 - [ ] Use another clustering method that works with mixed data type -- continuous and categorical data  
