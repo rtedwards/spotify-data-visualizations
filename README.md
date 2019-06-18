@@ -1,8 +1,8 @@
 # 🎧 Spotify Data Visualization Project
-A full-stack data project utilizing audio features data from the official Spotify Web API.
+A full-stack data project utilizing audio features data from the official Spotify Web API.  In the first notebook **Data Retrieval** we pull all the tracks saved in my Spotify music library along with audio features for each track and save it to a .csv.  In the **Data Exploration** notebook we do some exploratory analysis on the tracks as well as get an intuitive sense of the mean of each audio feature by listening to selected tracks.  In the last notebook, **Data Clustering** we use K-Means clustering algorithm to find natural groupings of tracks based on the features and save them to playlists.  
 
 # 🌱 Motivation
-Main motivation for this project was to get practical experience in all the steps of a data project including (automated) data retrieval, data exploration, as well as data modeling using Python, SQL, and Bash.
+Main motivation for this project was to get practical experience in all the steps of a data project including (automated) data retrieval, data exploration, as well as data modeling using Python, getting familiar with Jupyter Notebooks, and learn about API endpoints.
 
 # 📓 Notebooks
 Data Retrieval: [github](https://github.com/rtedwards/spotify-data-visualizations/blob/master/notebooks/spotify-data-retrieval.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/rtedwards/spotify-data-visualizations/blob/master/notebooks/spotify-data-retrieval.ipynb)  
