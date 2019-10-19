@@ -1,0 +1,17 @@
+name: yotto
+channels: 
+    - defaults
+    - conda-forge
+    - anaconda
+dependencies:
+    - python=3.7.2
+    - pip=19.1.1
+    - scikit-learn=0.20.0
+    - pandas=0.24.2
+    - numpy=1.16.4
+    - hdbscan=0.8.22
+    - pip:
+    - seaborn==0.9.0
+
+
+
