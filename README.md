@@ -35,3 +35,6 @@ My Spotify "liked" songs
 - [x] Create playlists based on found clusters and save them to my profile  
 - [ ] Find clusters within cluster to find subgenres
 - [ ] Use another clustering method that works with mixed data type -- continuous and categorical data  
+
+# Project Plan
+![Flowchart](spotify-project-flowchart.png)
